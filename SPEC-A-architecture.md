@@ -1,4 +1,3 @@
-// filename: SPEC-A-architecture.md
 # Purpose
 Define architecture & abstractions for a thin Telecom Cart Experience API fronting a non-persistent Salesforce "cart context". No DB; in-memory test double; typed errors; minimal logic.
 

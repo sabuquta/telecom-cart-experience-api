@@ -1,4 +1,3 @@
-// filename: SPEC-B-api.md
 # Base
 JSON everywhere. Money in cents (integers). ISO8601 UTC times. Error envelope:
 ```json

@@ -1,4 +1,3 @@
-// filename: README.md
 # Telecom Cart Experience API
 
 A thin Experience API for a telecom cart built on top of a simulated (non-persistent) Salesforce cart context.
