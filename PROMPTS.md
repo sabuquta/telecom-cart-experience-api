@@ -1,4 +1,3 @@
-// filename: PROMPTS.md
 # Prompts Used
 
 ## Master Prompt
